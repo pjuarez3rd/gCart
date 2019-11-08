@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/enzyme": "^3.1.10",
+    "@types/jest": "^23.3.2",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.12.1",
     "react": "^16.10.2",
